@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "390414222883",
+    "firebase_url": "https://fir-6292e.firebaseio.com",
+    "project_id": "fir-6292e",
+    "storage_bucket": "fir-6292e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390414222883:android:c70a5b7a0d51133d",
+        "android_client_info": {
+          "package_name": "phucduongcom.demofilebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390414222883-0nqjg38l37sri5p63krmd8ds89onke0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjF5aRb3ixp_RlB4YHy7R_XjZexOdstSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
